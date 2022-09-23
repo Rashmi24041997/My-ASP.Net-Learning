@@ -2066,11 +2066,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\KAPIL\\source\\repos\\ASP.NET FullStack Application\\WebApplication1\\NotesAPI.csproj",
+      "projectUniqueName": "C:\\Users\\KAPIL\\Source\\Repos\\Rashmi24041997\\My-ASP.Net-Learning\\ASP.NET FullStack Application\\WebApplication1\\NotesAPI.csproj",
       "projectName": "NotesAPI",
-      "projectPath": "C:\\Users\\KAPIL\\source\\repos\\ASP.NET FullStack Application\\WebApplication1\\NotesAPI.csproj",
+      "projectPath": "C:\\Users\\KAPIL\\Source\\Repos\\Rashmi24041997\\My-ASP.Net-Learning\\ASP.NET FullStack Application\\WebApplication1\\NotesAPI.csproj",
       "packagesPath": "C:\\Users\\KAPIL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\KAPIL\\source\\repos\\ASP.NET FullStack Application\\WebApplication1\\obj\\",
+      "outputPath": "C:\\Users\\KAPIL\\Source\\Repos\\Rashmi24041997\\My-ASP.Net-Learning\\ASP.NET FullStack Application\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\KAPIL\\AppData\\Roaming\\NuGet\\NuGet.Config",
